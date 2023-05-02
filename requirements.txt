@@ -1,0 +1,4 @@
+pandas
+snowflake-snowpark-python==0.7.0
+streamlit-aggrid
+openpyxl
